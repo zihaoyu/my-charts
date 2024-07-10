@@ -3,6 +3,16 @@ entries:
   catalog:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-07-10T19:14:00.942513457Z"
+    description: A Helm chart for my catalog
+    digest: b542c1c549354240af3b9dd462c6929f860b09bdbce7809e50e4b998ecfcd361
+    name: catalog
+    type: application
+    urls:
+    - https://github.com/zihaoyu/my-charts/releases/download/catalog-0.3.0/catalog-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-07-10T19:10:34.207930641Z"
     description: A Helm chart for my catalog
     digest: 9f1a6e8aa524ca8d8a64ca7952d70dd55e72631091215de7be28d4958ad5b177
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://github.com/zihaoyu/my-charts/releases/download/catalog-0.0.0-a41fb1c/catalog-0.0.0-a41fb1c.tgz
     version: 0.0.0-a41fb1c
-generated: "2024-07-10T19:10:34.207961007Z"
+generated: "2024-07-10T19:14:00.942542742Z"
